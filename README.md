@@ -1,6 +1,6 @@
 # Interhemi
 
-Some code used for analyzing data for "Cortical stimulation paired with volitional unimanual movement affects interhemispheric communication." Manuscript has been accepted to Frontiers in Neuroscience.
+Part of code used for analyzing data for "Cortical stimulation paired with volitional unimanual movement affects interhemispheric communication." Manuscript has been accepted to Frontiers in Neuroscience.
 
 Data consisted of neural data from 32 channels of a epidural implant and behavior data of hand acceleration, collected by g.USBAMP (g.tec).
 
