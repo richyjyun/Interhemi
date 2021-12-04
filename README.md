@@ -12,3 +12,7 @@ Data consisted of neural data from 32 channels of a epidural implant collected b
 L. Barnett and A. K. Seth, The MVGC Multivariate Granger Causality Toolbox: A New Approach to Granger-causal Inference, J. Neurosci. Methods 223, 2014.
 
 P. Mitra and H. Bokil, Observed Brain Dynamics. Oxford University Press, 2008
+
+<p align="center">
+  <img width="500" height="300" src="https://github.com/richyyun/SortSpikes/blob/main/SpikeExamples-01.png">
+</p>
