@@ -16,5 +16,5 @@ P. Mitra and H. Bokil, Observed Brain Dynamics. Oxford University Press, 2008
 Figure demonstrating intra- and interhemispheric interactions during unimanaul movement. 
 
 <p align="center">
-  <img width="1000" height="410" src="https://github.com/richyyun/Interhemi/blob/main/Body%20-%20MovementModel.png">
+  <img width="750" height="302.5" src="https://github.com/richyyun/Interhemi/blob/main/Body%20-%20MovementModel.png">
 </p>
