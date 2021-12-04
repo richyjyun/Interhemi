@@ -14,5 +14,5 @@ L. Barnett and A. K. Seth, The MVGC Multivariate Granger Causality Toolbox: A Ne
 P. Mitra and H. Bokil, Observed Brain Dynamics. Oxford University Press, 2008
 
 <p align="center">
-  <img width="500" height="300" src="https://github.com/richyyun/Interhemi/blob/main/Figure%201%20-%20MovementModel.tif">
+  <img width="1000" height="410" src="https://github.com/richyyun/Interhemi/blob/main/Body%20-%20MovementModel.png">
 </p>
