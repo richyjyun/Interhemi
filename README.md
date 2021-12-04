@@ -9,9 +9,9 @@ Data consisted of neural data from 32 channels of a epidural implant collected b
 +a contains scripts used for analzying and plotting the LFP analyses. Granger's causality was obtained using the MVGC toolbox (Barnett & Seth, 2014) and power over time was calculated in part with the Chronux package (http://chronux.org/; Mitra & Bokil, 2008) in conjunction with custom code.
 
 
-L. Barnett and A. K. Seth, The MVGC Multivariate Granger Causality Toolbox: A New Approach to Granger-causal Inference, J. Neurosci. Methods 223, 2014.
+[1] L. Barnett and A. K. Seth, The MVGC Multivariate Granger Causality Toolbox: A New Approach to Granger-causal Inference, J. Neurosci. Methods 223, 2014.
 
-P. Mitra and H. Bokil, Observed Brain Dynamics. Oxford University Press, 2008
+[2] P. Mitra and H. Bokil, Observed Brain Dynamics. Oxford University Press, 2008
 
 Figure demonstrating intra- and interhemispheric interactions during unimanaul movement. 
 
