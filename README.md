@@ -1,6 +1,6 @@
 # [Interhemi](https://www.richyyun.com/projects/5.-cortical-stimulation-paired-with-volitional-unimanual-movement-affects-interhemispheric-communication)
 
-Part of code used for analyzing data for "Cortical stimulation paired with volitional unimanual movement affects interhemispheric communication." Manuscript has been accepted to Frontiers in Neuroscience.
+Part of code used for analyzing data for ["Cortical stimulation paired with volitional unimanual movement affects interhemispheric communication."](https://www.frontiersin.org/articles/10.3389/fnins.2021.782188/full) 
 
 Data consisted of neural data from 32 channels of a epidural implant collected by g.USBAMP (g.tec), and wrist acceleration data collected through a NI-DAQ device using custom MATLAB code.
 
