@@ -1,4 +1,4 @@
-# Interhemi([Frontiers in Neuroscience](https://www.frontiersin.org/articles/10.3389/fnins.2021.782188/full))
+# [Interhemi](https://www.frontiersin.org/articles/10.3389/fnins.2021.782188/full)
 
 Part of code used for analyzing data for ["Cortical stimulation paired with volitional unimanual movement affects interhemispheric communication."](https://www.frontiersin.org/articles/10.3389/fnins.2021.782188/full) 
 
