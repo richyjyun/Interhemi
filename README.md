@@ -1,4 +1,4 @@
-# [Interhemi](https://www.frontiersin.org/articles/10.3389/fnins.2021.782188/full)
+# Interhemi ([Frontiers in Neuroscience](https://www.frontiersin.org/articles/10.3389/fnins.2021.782188/full))
 
 Code used for analyzing data for ["Cortical stimulation paired with volitional unimanual movement affects interhemispheric communication."](https://www.frontiersin.org/articles/10.3389/fnins.2021.782188/full) 
 
@@ -18,3 +18,5 @@ Figure demonstrating intra- and interhemispheric interactions during unimanaul m
 <p align="center">
   <img width="750" height="302.5" src="https://github.com/richyyun/Interhemi/blob/main/Body%20-%20MovementModel.png">
 </p>
+
+## Analyses performed
