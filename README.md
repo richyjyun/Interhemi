@@ -19,7 +19,7 @@ Figure demonstrating intra- and interhemispheric interactions during unimanaul m
   <img width="750" height="302.5" src="https://github.com/richyyun/Interhemi/blob/main/Body%20-%20MovementModel.png">
 </p>
 
-## Analyses performed
+## Analyses Performed
 - Align accelerometer data with the neural data (u.trainalign3). A single pulse stimulus was sent to each recording to make alignment easier.
 - Create a session list (SL) of all experiments for all animals (u.getMetaData). Each animal had slightly different experimental conditions (sampling rate, duration of sessions, number of electrodes) which the code accounts for, along with different scripts for loading each one of their neural and training data.
 - Calculate and append the reaction time for each trial to the session list (u.AppendRT). Accelerometer traces were filtered and thresholded at 1/3 of the maximum of the trial-triggered average.
